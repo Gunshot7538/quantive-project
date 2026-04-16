@@ -1,16 +1,19 @@
-# Quantium Virtual Experience Program - Task 1
+# Quantium Virtual Experience Program
 
-## Task Objective
-Set up the local development environment for the project using Python virtual environment and required dependencies.
+## Task 1
+Set up the local Python development environment using a virtual environment and installed required packages like pandas and dash.
+
+## Task 2
+Processed raw transaction CSV files into a single clean output file.
+
+### Steps performed
+- Combined 3 CSV files
+- Filtered only Pink Morsel sales
+- Created a new Sales column using quantity × price
+- Kept only Sales, Date, and Region columns
+- Saved the final output as `formatted_output.csv`
 
 ## Tools Used
-- Python 3.9
+- Python
 - Pandas
 - Dash
-- Dash Testing
-
-## Setup Completed
-- Created virtual environment
-- Installed required packages
-- Initialized Git repository
-- Pushed project to GitHub
