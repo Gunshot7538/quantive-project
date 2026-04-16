@@ -25,3 +25,6 @@ Created a Dash application with:
 - Line chart of Pink Morsel sales over time
 - Date-sorted sales data
 - Axis labels for Date and Sales
+
+### Insight
+Sales significantly increased after the price increase on 15 January 2021.
