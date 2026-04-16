@@ -17,3 +17,11 @@ Processed raw transaction CSV files into a single clean output file.
 - Python
 - Pandas
 - Dash
+
+
+## Task 3
+Created a Dash application with:
+- Header for the visualiser
+- Line chart of Pink Morsel sales over time
+- Date-sorted sales data
+- Axis labels for Date and Sales
