@@ -28,3 +28,9 @@ Created a Dash application with:
 
 ### Insight
 Sales significantly increased after the price increase on 15 January 2021.
+
+## Task 4
+Improved the Dash application by:
+- Adding a region filter with radio buttons
+- Allowing users to view sales for north, east, south, west, or all regions
+- Styling the app with a cleaner and more visually appealing layout
